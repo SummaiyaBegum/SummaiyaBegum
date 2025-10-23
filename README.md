@@ -8,7 +8,7 @@ Currently learning to use **Python** and basic bioinformatics tools to understan
 
 ## 🔬 What I’m Learning
 
-Practicing small exercises from educational sources to build a foundation in computational biology.  
+Working through beginner-level exercises from reliable sources to get comfortable with computational biology. 
 These include:
 
 - Reading and writing DNA sequences in FASTA format  
@@ -17,7 +17,7 @@ These include:
 - Finding restriction enzyme sites  
 - Working with small datasets
 
-Each folder in this profile contains exercises **studied and practiced**, along with the code, data, and short explanations.  
+Each folder in this profile contains exercises I've **practiced**, along with the code, data, and short explanations.  
 These exercises are not my own creations — they are based on **learning materials from sources such as:**
 - [Python for Biologists](https://userpages.fu-berlin.de/digga/p4b.pdf) by Dr. Martin Jones  
 
@@ -27,6 +27,5 @@ These exercises are not my own creations — they are based on **learning materi
 ## 🎯 Learning Path
 
 The aim is to gradually connect **wet-lab microbiology** with **basic computational analysis** using Python and open bioinformatics resources.  
-This profile documents the steps taken while learning — exercises completed, concepts understood, and progress made over time.  
-It serves as a growing record of how biological questions can be explored through small, structured computational tasks.
+This profile is simply where I keep track of what I’ve learned and how I’m applying it through small coding tasks.
 
