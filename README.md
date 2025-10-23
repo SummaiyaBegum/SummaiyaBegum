@@ -8,7 +8,7 @@ I'm currently learning to use **Python** and basic bioinformatics tools to under
 
 ## 🔬 What I’m Learning
 
-I’m practicing small exercises from well-known educational sources to build a solid foundation in computational biology.  
+I’m practicing small exercises from educational sources to build a foundation in computational biology.  
 These include:
 
 - Reading and writing DNA sequences in FASTA format  
@@ -34,15 +34,6 @@ My dissertation explored the **phytochemical and antimicrobial activity** of *Pe
 
 This experience developed my interest in understanding how natural compounds affect microbial growth and resistance — which is why I’m now focusing on learning data-based approaches to study microbes more deeply.
 
----
-
-## 🧰 Tools and Techniques
-| Category | Tools / Skills |
-|-----------|----------------|
-| Programming | Python (beginner level) |
-| Data handling | Excel, CSV files |
-| Bioinformatics basics | FASTA sequences, GC content, restriction site analysis |
-| Experimental techniques | Micropropagation, phytochemical screening, antimicrobial assay |
 
 ---
 
