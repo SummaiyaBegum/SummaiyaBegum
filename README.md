@@ -19,7 +19,8 @@ These include:
 
 Each folder in this profile contains exercises I've **practiced**, along with the code, data, and short explanations.  
 These exercises are not my own creations — they are based on **learning materials from sources such as:**
-- [Python for Biologists](https://userpages.fu-berlin.de/digga/p4b.pdf) by Dr. Martin Jones  
+- [Python for Biologists](https://userpages.fu-berlin.de/digga/p4b.pdf) by Dr. Martin Jones 
+- Other open resources and online tutorials
 
 
 ---
