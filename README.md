@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Summaiya Begum
 
-A Life Sciences graduate with a background in **Microbiology, Zoology, and Public Health**.  
+A Life Sciences graduate with a background in **Microbiology, Zoology, Applied Nutrition and Public Health**.  
 Currently learning to use **Python** and basic bioinformatics tools to understand biological data — especially in the context of microbes, antimicrobial resistance, and genomics.
 
 ---
