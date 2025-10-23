@@ -23,17 +23,6 @@ These exercises are not my own creations — they are based on **learning materi
 - NCBI Bioinformatics Training Resources   
 - Open-access genomics and microbiome tutorials  
 
----
-
-## 🧫 My Undergraduate Thesis
-
-Dissertation explored the **phytochemical and antimicrobial activity** of *Pelargonium gravidans* (rose geranium) extract prepared from micropropagated tissue cultures.  
-- Tested against *Staphylococcus aureus* (15 mm inhibition) and *Streptococcus pneumoniae* (18 mm inhibition)  
-- Phytochemical screening showed the presence of alkaloids, flavonoids, saponins, and essential oils  
-- Data were organized and visualized using Excel  
-
-This experience developed my interest in understanding how natural compounds affect microbial growth and resistance — leads to focusing on learning data-based approaches to study microbes more deeply.
-
 
 ---
 
