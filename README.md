@@ -20,7 +20,7 @@ I’m a BSc Life Sciences graduate transitioning from microbiology into bioinfor
 **🔭Currently exploring:** programming languages and tools for biologists.  
 **🌱Expanding my knowledge** in computational biology and data analysis.  
 **🤝Eager to collaborate** on Antimicrobial Resistance (AMR) or Gut Microbiome-related research projects.  
-**👨‍💻Actively looking** for PhD opportunities in microbiology or bioinformatics.  
+**👨‍💻Actively looking** for PhD opportunities in Microbiology & Bioinformatics.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/summaiya-begum-7a3409263/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:begumsummaiya81@gmail.com)
