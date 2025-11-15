@@ -30,7 +30,7 @@ I’m a BSc Life Sciences graduate transitioning from microbiology into bioinfor
 ## 💻 🛠️ Languages & Tools
 
 ### **Using Now**
-| Python | BioPython | Matplotlib | VS Code | Excel | Canva | NCBI | ChEMBL |
+| Python | BioPython | Matplotlib | VS Code | Excel | NCBI | ChEMBL |
 
 
 ---
