@@ -40,5 +40,13 @@ I’m a BSc Life Sciences graduate transitioning from microbiology into bioinfor
 
 
 ---
-![Coding GIF](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/code.gif)
+## 📊 Languages I Mostly Use
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SummaiyaBegum&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+
+
+
+
 
