@@ -52,7 +52,7 @@ I’m a BSc Life Sciences graduate transitioning from microbiology into bioinfor
 ---
 ## 📊 Languages I Mostly Use
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SummaiyaBegum&layout=compact&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SummaiyaBegum&layout=compact&hide_border=true&langs_count=6&theme=calm" />
 </p>
 
 
