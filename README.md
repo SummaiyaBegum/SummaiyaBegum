@@ -30,13 +30,23 @@ I’m a BSc Life Sciences graduate transitioning from microbiology into bioinfor
 ## 💻 🛠️ Languages & Tools
 
 ### **Using Now**
-| Python | BioPython | Matplotlib | VS Code | Excel | NCBI | ChEMBL |
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![BioPython](https://img.shields.io/badge/BioPython-009688?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![NCBI](https://img.shields.io/badge/NCBI-003A70?style=for-the-badge)
+![ChEMBL](https://img.shields.io/badge/ChEMBL-4A6FA5?style=for-the-badge)
+
 
 
 ---
 
 ### **Learning**
-| R |
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
 ---
