@@ -62,16 +62,6 @@ I'm especially interested in moving from individual exercises and tutorials towa
 
 ---
 
-## 🌱 My Learning Journey
-
-I come from a Life Sciences and Microbiology background, and I'm learning bioinformatics step by step.
-
-When I started, programming and the Linux command line were completely new to me. I'm documenting my projects and learning process here as I go.
-
-I'm still learning, so if you notice something incorrect or have a useful resource to share, feel free to reach out.
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in connecting with people working or learning in:
